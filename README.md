@@ -1,11 +1,18 @@
-# Antv 使用ts+react实践
+<!--
+ * @Description: In User Settings Edit
+ * @Author: your name
+ * @Date: 2019-08-13 14:54:59
+ * @LastEditTime: 2019-08-13 14:57:02
+ * @LastEditors: Please set LastEditors
+ -->
 
-包括多个图表
+# Antv 使用 ts+react 实践
+
+包括多个图表 1
 
 ## Environment Prepare
 
 Install `node_modules`:
-
 
 ```bash
 yarn
