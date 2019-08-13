@@ -1,16 +1,11 @@
-# Ant Design Pro
+# Antv 使用ts+react实践
 
-This project is initialized with [Ant Design Pro](https://pro.ant.design). Follow is the quick guide for how to use.
+包括多个图表
 
 ## Environment Prepare
 
 Install `node_modules`:
 
-```bash
-npm install
-```
-
-or
 
 ```bash
 yarn
@@ -25,7 +20,7 @@ Scripts provided in `package.json`. It's safe to modify or add additional script
 ### Start project
 
 ```bash
-npm start
+yarn start
 ```
 
 ### Build project
