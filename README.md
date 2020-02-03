@@ -2,8 +2,8 @@
  * @Description: In User Settings Edit
  * @Author: your name
  * @Date: 2019-08-13 14:54:59
- * @LastEditTime: 2019-08-13 15:02:14
- * @LastEditors: Please set LastEditors
+ * @LastEditTime : 2020-02-03 15:12:18
+ * @LastEditors  : Please set LastEditors
  -->
 
 # Antv 使用 ts+react 实践
@@ -15,13 +15,13 @@
 Install `node_modules`:
 
 ```bash
-yarn
+cnpm install
 ```
 
 ### Start project
 
 ```bash
-yarn start
+npm start
 ```
 
 ### Build project
@@ -61,3 +61,7 @@ npm run build
 ### 双柱状折叠图
 
 ![avatar](./public/h.png)
+
+### 横向柱状折叠图
+
+![avatar](./public/k.png)

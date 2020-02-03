@@ -2,8 +2,8 @@
  * @Description: In User Settings Edit
  * @Author: your name
  * @Date: 2019-07-25 17:30:48
- * @LastEditTime: 2019-08-13 14:10:37
- * @LastEditors: Please set LastEditors
+ * @LastEditTime : 2020-02-03 15:05:45
+ * @LastEditors  : Please set LastEditors
  */
 import { IConfig, IPlugin } from 'umi-types';
 
@@ -149,6 +149,12 @@ export default {
           name: '双柱状折叠图',
           icon: 'smile',
           component: './GGG',
+        },
+        {
+          path: '/hhh',
+          name: '横向柱状折叠图',
+          icon: 'smile',
+          component: './HHH',
         },
         {
           component: './404',
